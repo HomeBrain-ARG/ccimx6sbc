@@ -13,7 +13,7 @@ Additionaly you can find already installed the utilities:
 - gdb
 - gdbserver
 
-Next steps are copy the files in a uSD, insert it in the module and reboot using U-Boot to install the new version of Yocto.
+Next steps are uncompress the files in a uSD, insert it in the module and reboot using U-Boot to install the new version of Yocto. Execute "run install_linux_fw_sd".
 
 If you have any question please send me an e-Mail to info@homebrain.com.ar.
 
