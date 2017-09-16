@@ -1,3 +1,14 @@
-# Yocto 2.0-r4 for ConnectCore6 Single Board Computer model I-Q-4/1-WiFi-BT-MCA (95015845-B).
+# Yocto 2.2-r2.2 for Digi ConnectCore6UL Starter Kit Single Board Computer.
 
-The main reason of this repository is to post the new compiled version of OS Yocto 2.0-r4 fully functional for SBC model 95015845-B (first version) because originally it has Yocto compiled in version 1.6.9.
+The main reason of this repository is to post the new compiled version of OS Yocto 2.2-r2.2 fully operational for SBC model ConnectCore6UL because originally it has Yocto compiled in version 2.0.
+
+Additionaly you can find already installed the utilities:
+- nano
+- e2fsprogrs
+- i2c-tools
+- lighttpd
+- glibc-staticdev
+- openssh-sftp-server
+- ruby
+- gdb
+- gdbserver
