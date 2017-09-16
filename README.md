@@ -15,4 +15,6 @@ Additionaly you can find already installed the utilities:
 
 Next steps are copy the files in a uSD, insert it in the module and reboot using U-Boot to install the new version of Yocto.
 
+If you have more questions please send an e-Mail to info@homebrain.com.ar.
+
 Antonio Rodríguez Capello
