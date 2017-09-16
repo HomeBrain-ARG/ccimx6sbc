@@ -12,3 +12,7 @@ Additionaly you can find already installed the utilities:
 - ruby
 - gdb
 - gdbserver
+
+Next steps are copy the files in a uSD, insert it in the module and reboot using U-Boot to install the new version of Yocto.
+
+Antonio Rodríguez Capello
